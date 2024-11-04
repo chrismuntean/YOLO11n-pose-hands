@@ -5,7 +5,7 @@
 <img src="/readme-media/hand-landmarks.jpg" alt="Demo" width="100%">
 <img src="/readme-media/test.gif" alt="Demo" width="100%">
 
-#### As shown in this test video, the trained model struggles to accurately detect keypoints for gestures like pinching and swiping. However, it performs well in identifying keypoints on open hands, whether facing forward or backward.
+### As shown in this test video, the trained model struggles to accurately detect keypoints for gestures like pinching and swiping. However, it performs well in identifying keypoints on open hands, whether facing forward or backward.
 
 </div>
 
