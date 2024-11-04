@@ -30,7 +30,7 @@ python webcam-test.py
 
 <div align="center">
 
-## Download the trained `best.pt` file [here](https://github.com/chrismuntean/YOLO11n-pose-hands/blob/bda894403f378d2a298d2f88ae9d5ed6d4e9f8e3/runs/pose/train/weights/best.pt)
+### Download the trained `best.pt` file [here](https://github.com/chrismuntean/YOLO11n-pose-hands/blob/bda894403f378d2a298d2f88ae9d5ed6d4e9f8e3/runs/pose/train/weights/best.pt)
 
 </div>
 
