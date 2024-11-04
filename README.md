@@ -5,7 +5,7 @@
 <img src="/readme-media/hand-landmarks.jpg" alt="Demo" width="100%">
 <img src="/readme-media/test.gif" alt="Demo" width="100%">
 
-##### As shown in this test video, the trained model struggles to accurately detect keypoints for gestures like pinching and swiping. However, it performs well in identifying keypoints on open hands, whether facing forward or backward.
+#### As shown in this test video, the trained model struggles to accurately detect keypoints for gestures like pinching and swiping. However, it performs well in identifying keypoints on open hands, whether facing forward or backward.
 
 </div>
 
@@ -64,7 +64,7 @@ The hand keypoint dataset is split into two subsets:
 
 ## Citations and Acknowledgments
 
-### Big thanks @IsaacTheDev for letting me use his 4070 for training <3
+### Big thanks to [@IsaacTheDev](https://github.com/IsaacTheDev) for letting me use his 4070 for training <3
 
 If you use the hand-keypoints dataset in your research or development work, please acknowledge the following sources:
 ```
