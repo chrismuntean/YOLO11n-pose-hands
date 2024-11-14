@@ -64,7 +64,11 @@ The hand keypoint dataset is split into two subsets:
 
 ## Citations and Acknowledgments
 
+<div align="center">
+
 ### Big thanks to [@IsaacTheDev](https://github.com/IsaacTheDev) for letting me use his 4070 for training <3
+
+</div>
 
 If you use the hand-keypoints dataset in your research or development work, please acknowledge the following sources:
 ```
@@ -74,7 +78,7 @@ If you use the hand-keypoints dataset in your research or development work, plea
   journal = {Multimedia Tools and Applications},
   doi = {10.1007/s11042-019-7424-8},
   url = {https://doi.org/10.1007/s11042-019-7424-8},
-  year={2019}
+  year = {2019}
 }
 
 @misc{imsparsh2020gesture,
